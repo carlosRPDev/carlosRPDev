@@ -40,37 +40,11 @@ end
 
 ---
 
-## 📊 Mis Stats
-
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=carlosRPDev&theme=nord-aurora&hide_border=true&border_radius=3&locale=es&mode=weekly" alt="GitHub Streak" /></a>
-</p>
-
----
-
-## 🚀 Proyectos Recientes
-
-### **ERP Multitenant en Rails 8**
-
-- Arquitectura con Engines
-- Autenticación con Devise
-- ViewComponents + Hotwire
-- Testing sólido con RSpec
-- Despliegue en Kubernetes
-
-### **Sistemas internos y APIs**
-
-- Microservicios con JSON
-- Pipelines de automatización
-- Integraciones internas
-
----
-
 ## 📬 Contacto
 
 <p align="center">
-  <a href="TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="[TU_LINKEDIN](https://www.linkedin.com/in/carlos-mario-rodriguez-pastrana-a5a8ab1a7/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ucroxlive@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
